@@ -42,7 +42,8 @@ Custom domain: not configured; not invented.
 2. Added `.github/workflows/pages.yml` (contents:read + pages:write + id-token:write on deploy path).
 3. Enabled Pages via REST: `POST /repos/OpenMatchday/website/pages` with `{"build_type":"workflow"}`.
 4. Local check: `node scripts/check-site.mjs` -> `SITE_CHECK_OK`.
-5. After push: Actions `pages` workflow must conclude success; HTTP GET of the project URL must return the spike HTML.
+5. After push: Actions `pages` workflow run `42593922018` conclusion **success** (build + deploy).
+6. HTTP GET `https://openmatchday.github.io/website/` -> **200**, body contains `Website hosting spike` (recorded 2026-11-09 from Windows host Leo, Wi-Fi Up 275 Mbps, network profile LAGRANGE 6).
 
 ## Secrets absence
 
