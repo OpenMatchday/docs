@@ -14,6 +14,8 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 | D4 codecs and encoders (OM-005) | [spikes/d4-codecs-encoders.md](spikes/d4-codecs-encoders.md) |
 | D5 OCR engine (OM-006) | [spikes/d5-ocr-engine.md](spikes/d5-ocr-engine.md) |
 | D6 website stack and hosting (OM-007) | [spikes/d6-website-stack-hosting.md](spikes/d6-website-stack-hosting.md) |
+| D7 community backend (OM-008) | [spikes/d7-community-backend.md](spikes/d7-community-backend.md) |
+| D8 social providers (OM-009) | [spikes/d8-social-providers.md](spikes/d8-social-providers.md) |
 
 ## License
 
