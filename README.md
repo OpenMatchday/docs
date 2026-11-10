@@ -23,6 +23,13 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 |---|---|
 | G7 output combinations (OM-026) | [gates/g7-output-combinations.md](gates/g7-output-combinations.md) |
 
+## Privacy
+
+| Doc | Path |
+|---|---|
+| Takedown process (AC-9.6) | [privacy/takedown.md](privacy/takedown.md) |
+| Minors photo consent (AC-9.3) | [privacy/minors-consent.md](privacy/minors-consent.md) |
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
