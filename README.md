@@ -17,6 +17,12 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 | D7 community backend (OM-008) | [spikes/d7-community-backend.md](spikes/d7-community-backend.md) |
 | D8 social providers (OM-009) | [spikes/d8-social-providers.md](spikes/d8-social-providers.md) |
 
+## Gates
+
+| Gate | Doc |
+|---|---|
+| G7 output combinations (OM-026) | [gates/g7-output-combinations.md](gates/g7-output-combinations.md) |
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

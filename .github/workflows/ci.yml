@@ -20,3 +20,4 @@ jobs:
           test -f LICENSE
           test -f spikes/d1-application-framework.md
           test -f spikes/d8-social-providers.md
+          test -f gates/g7-output-combinations.md
