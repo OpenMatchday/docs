@@ -1,0 +1,14 @@
+{
+  "name": "open-matchday-docs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Open Matchday operator, developer, and contributor documentation site",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "check": "node scripts/build-site.mjs && node scripts/check-site.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

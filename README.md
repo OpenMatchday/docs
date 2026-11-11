@@ -4,6 +4,23 @@ Operator, developer, and contributor documentation for Open Matchday.
 
 Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 
+## Published site
+
+GitHub Pages project site: [https://openmatchday.github.io/docs/](https://openmatchday.github.io/docs/)
+
+```bash
+npm run build
+npm run check
+```
+
+## Guides
+
+| Guide | Path |
+|---|---|
+| Operator | [guides/operator.md](guides/operator.md) |
+| Developer | [guides/developer.md](guides/developer.md) |
+| Contributor | [guides/contributor.md](guides/contributor.md) |
+
 ## Spikes
 
 | Spike | Doc |
@@ -31,9 +48,9 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 | Takedown process (AC-9.6) | [privacy/takedown.md](privacy/takedown.md) |
 | Minors photo consent (AC-9.3) | [privacy/minors-consent.md](privacy/minors-consent.md) |
 
-## Website (OM-038)
+## Product site
 
-Public product site (static GitHub Pages project site): [openmatchday.github.io/website](https://openmatchday.github.io/website/) -- product, workflow, downloads, docs entry, generated capabilities/sports/themes catalogs, registry browser, privacy, takedown.
+[openmatchday.github.io/website](https://openmatchday.github.io/website/) -- catalogs, default assets, registry browser.
 
 ## License
 

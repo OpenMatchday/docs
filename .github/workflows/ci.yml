@@ -23,4 +23,11 @@ jobs:
           test -f gates/g7-output-combinations.md
           test -f privacy/takedown.md
           test -f privacy/minors-consent.md
+          test -f guides/operator.md
+          test -f guides/developer.md
+          test -f guides/contributor.md
+      - name: Build and check docs site
+        run: |
+          node scripts/build-site.mjs
+          node scripts/check-site.mjs
 
