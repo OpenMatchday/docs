@@ -9,7 +9,7 @@ This process covers public registry content in the `teams` repository (clubs, te
 ## How to request a takedown
 
 1. Open a GitHub issue in [OpenMatchday/teams](https://github.com/OpenMatchday/teams) with title prefix `takedown:` and identify the stable ids or file paths.
-2. Or email the organization maintainers through the contact method published on the Open Matchday website privacy page when that page ships.
+2. Or use the contact method on the public website [privacy](https://openmatchday.github.io/website/privacy.html) and [takedown](https://openmatchday.github.io/website/takedown.html) stubs (GitHub issue path; no dedicated public email published yet).
 3. Include enough detail to locate the content (stable id, package id, photo path). Do not send unnecessary personal data.
 
 ## What maintainers do

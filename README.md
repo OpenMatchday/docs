@@ -31,6 +31,10 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 | Takedown process (AC-9.6) | [privacy/takedown.md](privacy/takedown.md) |
 | Minors photo consent (AC-9.3) | [privacy/minors-consent.md](privacy/minors-consent.md) |
 
+## Website (OM-038)
+
+Public product stubs (static GitHub Pages project site): [openmatchday.github.io/website](https://openmatchday.github.io/website/) -- product, workflow, downloads, docs entry, privacy, takedown. Catalogs and SEO follow in later tasks.
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
