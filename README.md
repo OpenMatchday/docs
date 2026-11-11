@@ -22,6 +22,7 @@ Part of the [OpenMatchday](https://github.com/OpenMatchday) organization.
 | Gate | Doc |
 |---|---|
 | G7 output combinations (OM-026) | [gates/g7-output-combinations.md](gates/g7-output-combinations.md) |
+| G7 live outputs (OM-033) | [gates/g7-live-outputs.md](gates/g7-live-outputs.md) |
 
 ## Privacy
 
